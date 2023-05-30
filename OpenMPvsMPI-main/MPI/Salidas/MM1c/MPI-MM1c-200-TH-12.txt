@@ -1,0 +1,12 @@
+approx 24-process time Tp: 0.112477 sec.
+approx 24-process time Tp: 0.135352 sec.
+approx 24-process time Tp: 0.172276 sec.
+approx 12-process time Tp: 0.002707 sec.
+approx 12-process time Tp: 0.602006 sec.
+approx 12-process time Tp: 0.258026 sec.
+approx 12-process time Tp: 0.003683 sec.
+approx 12-process time Tp: 0.003630 sec.
+approx 12-process time Tp: 0.003676 sec.
+approx 12-process time Tp: 0.002680 sec.
+approx 12-process time Tp: 0.003640 sec.
+approx 12-process time Tp: 0.003572 sec.

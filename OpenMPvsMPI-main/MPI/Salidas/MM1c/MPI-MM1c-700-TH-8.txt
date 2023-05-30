@@ -1,0 +1,13 @@
+approx 16-process time Tp: 0.303924 sec.
+approx 16-process time Tp: 0.336831 sec.
+approx 16-process time Tp: 0.294799 sec.
+approx 8-process time Tp: 0.176500 sec.
+approx 8-process time Tp: 0.188258 sec.
+approx 8-process time Tp: 0.273605 sec.
+approx 8-process time Tp: 0.173457 sec.
+approx 8-process time Tp: 0.202415 sec.
+approx 8-process time Tp: 0.206003 sec.
+approx 8-process time Tp: 0.168162 sec.
+approx 8-process time Tp: 0.207467 sec.
+approx 8-process time Tp: 0.245914 sec.
+approx 8-process time Tp: 0.240495 sec.

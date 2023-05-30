@@ -1,0 +1,3513 @@
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 1
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+[worker4:1103108] *** Process received signal ***
+[worker4:1103108] Signal: Segmentation fault (11)
+[worker4:1103108] Signal code: Invalid permissions (2)
+[worker4:1103108] Failing at address: 0x7f008ab1df18
+[worker4:1103108] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x43090)[0x7f008a806090]
+[worker4:1103108] [ 1] /lib64/ld-linux-x86-64.so.2(+0x2df18)[0x7f008ab1df18]
+[worker4:1103108] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1103108 on node worker4 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 2
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 3
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+./lanzadorMPI.sh: line 16: 263097 Killed                  mpirun --mca btl_tcp_if_include eno1 --host worker4:${thread},worker5:${thread} mpi${program} ${matrix} >> ${filename}
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+./lanzadorMPI.sh: line 16: 260082 Killed                  mpirun --mca btl_tcp_if_include eno1 --host worker4:${thread},worker5:${thread} mpi${program} ${matrix} >> ${filename}
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+./lanzadorMPI.sh: line 14: syntax error near unexpected token `do'
+./lanzadorMPI.sh: line 14: `        do'
+Main FOR - Execute i = 0
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 1
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 2
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 3
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 4
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 5
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 6
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+[worker4:1374074] *** Process received signal ***
+[worker4:1374074] Signal: Segmentation fault (11)
+[worker4:1374074] Signal code: Invalid permissions (2)
+[worker4:1374074] Failing at address: 0x7f00b5412f18
+[worker4:1374074] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x43090)[0x7f00b50fb090]
+[worker4:1374074] [ 1] /lib64/ld-linux-x86-64.so.2(+0x2df18)[0x7f00b5412f18]
+[worker4:1374074] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1374074 on node worker4 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+[worker4:1380627] *** Process received signal ***
+[worker4:1380627] Signal: Segmentation fault (11)
+[worker4:1380627] Signal code: Invalid permissions (2)
+[worker4:1380627] Failing at address: 0x7f00f1b2ff18
+[worker4:1380627] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x43090)[0x7f00f1818090]
+[worker4:1380627] [ 1] /lib64/ld-linux-x86-64.so.2(+0x2df18)[0x7f00f1b2ff18]
+[worker4:1380627] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1380627 on node worker4 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 7
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 8
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+[worker4:1400627] *** Process received signal ***
+[worker4:1400627] Signal: Segmentation fault (11)
+[worker4:1400627] Signal code: Invalid permissions (2)
+[worker4:1400627] Failing at address: 0x7f002ed28f18
+[worker4:1400627] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x43090)[0x7f002ea11090]
+[worker4:1400627] [ 1] /lib64/ld-linux-x86-64.so.2(+0x2df18)[0x7f002ed28f18]
+[worker4:1400627] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1400627 on node worker4 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Main FOR - Execute i = 9
+Thread - Execute Thread = 2
+Matrix - Execute matrix = 100 thread = 2
+Execute MPI-MM1c-100-TH-2
+Matrix - Execute matrix = 200 thread = 2
+Execute MPI-MM1c-200-TH-2
+Matrix - Execute matrix = 300 thread = 2
+Execute MPI-MM1c-300-TH-2
+Matrix - Execute matrix = 400 thread = 2
+Execute MPI-MM1c-400-TH-2
+Matrix - Execute matrix = 500 thread = 2
+Execute MPI-MM1c-500-TH-2
+Matrix - Execute matrix = 600 thread = 2
+Execute MPI-MM1c-600-TH-2
+Matrix - Execute matrix = 700 thread = 2
+Execute MPI-MM1c-700-TH-2
+Matrix - Execute matrix = 800 thread = 2
+Execute MPI-MM1c-800-TH-2
+Matrix - Execute matrix = 900 thread = 2
+Execute MPI-MM1c-900-TH-2
+Matrix - Execute matrix = 1000 thread = 2
+Execute MPI-MM1c-1000-TH-2
+Matrix - Execute matrix = 1200 thread = 2
+Execute MPI-MM1c-1200-TH-2
+Matrix - Execute matrix = 1400 thread = 2
+Execute MPI-MM1c-1400-TH-2
+Matrix - Execute matrix = 1600 thread = 2
+Execute MPI-MM1c-1600-TH-2
+Matrix - Execute matrix = 1800 thread = 2
+Execute MPI-MM1c-1800-TH-2
+Matrix - Execute matrix = 2000 thread = 2
+Execute MPI-MM1c-2000-TH-2
+Matrix - Execute matrix = 2400 thread = 2
+Execute MPI-MM1c-2400-TH-2
+Matrix - Execute matrix = 2800 thread = 2
+Execute MPI-MM1c-2800-TH-2
+Matrix - Execute matrix = 3000 thread = 2
+Execute MPI-MM1c-3000-TH-2
+Thread - Execute Thread = 4
+Matrix - Execute matrix = 100 thread = 4
+Execute MPI-MM1c-100-TH-4
+Matrix - Execute matrix = 200 thread = 4
+Execute MPI-MM1c-200-TH-4
+Matrix - Execute matrix = 300 thread = 4
+Execute MPI-MM1c-300-TH-4
+Matrix - Execute matrix = 400 thread = 4
+Execute MPI-MM1c-400-TH-4
+Matrix - Execute matrix = 500 thread = 4
+Execute MPI-MM1c-500-TH-4
+Matrix - Execute matrix = 600 thread = 4
+Execute MPI-MM1c-600-TH-4
+Matrix - Execute matrix = 700 thread = 4
+Execute MPI-MM1c-700-TH-4
+Matrix - Execute matrix = 800 thread = 4
+Execute MPI-MM1c-800-TH-4
+Matrix - Execute matrix = 900 thread = 4
+Execute MPI-MM1c-900-TH-4
+Matrix - Execute matrix = 1000 thread = 4
+Execute MPI-MM1c-1000-TH-4
+Matrix - Execute matrix = 1200 thread = 4
+Execute MPI-MM1c-1200-TH-4
+Matrix - Execute matrix = 1400 thread = 4
+Execute MPI-MM1c-1400-TH-4
+Matrix - Execute matrix = 1600 thread = 4
+Execute MPI-MM1c-1600-TH-4
+Matrix - Execute matrix = 1800 thread = 4
+Execute MPI-MM1c-1800-TH-4
+Matrix - Execute matrix = 2000 thread = 4
+Execute MPI-MM1c-2000-TH-4
+Matrix - Execute matrix = 2400 thread = 4
+Execute MPI-MM1c-2400-TH-4
+Matrix - Execute matrix = 2800 thread = 4
+Execute MPI-MM1c-2800-TH-4
+Matrix - Execute matrix = 3000 thread = 4
+Execute MPI-MM1c-3000-TH-4
+Thread - Execute Thread = 6
+Matrix - Execute matrix = 100 thread = 6
+Execute MPI-MM1c-100-TH-6
+Matrix - Execute matrix = 200 thread = 6
+Execute MPI-MM1c-200-TH-6
+Matrix - Execute matrix = 300 thread = 6
+Execute MPI-MM1c-300-TH-6
+Matrix - Execute matrix = 400 thread = 6
+Execute MPI-MM1c-400-TH-6
+Matrix - Execute matrix = 500 thread = 6
+Execute MPI-MM1c-500-TH-6
+Matrix - Execute matrix = 600 thread = 6
+Execute MPI-MM1c-600-TH-6
+Matrix - Execute matrix = 700 thread = 6
+Execute MPI-MM1c-700-TH-6
+Matrix - Execute matrix = 800 thread = 6
+Execute MPI-MM1c-800-TH-6
+Matrix - Execute matrix = 900 thread = 6
+Execute MPI-MM1c-900-TH-6
+Matrix - Execute matrix = 1000 thread = 6
+Execute MPI-MM1c-1000-TH-6
+Matrix - Execute matrix = 1200 thread = 6
+Execute MPI-MM1c-1200-TH-6
+Matrix - Execute matrix = 1400 thread = 6
+Execute MPI-MM1c-1400-TH-6
+Matrix - Execute matrix = 1600 thread = 6
+Execute MPI-MM1c-1600-TH-6
+Matrix - Execute matrix = 1800 thread = 6
+Execute MPI-MM1c-1800-TH-6
+Matrix - Execute matrix = 2000 thread = 6
+Execute MPI-MM1c-2000-TH-6
+Matrix - Execute matrix = 2400 thread = 6
+Execute MPI-MM1c-2400-TH-6
+Matrix - Execute matrix = 2800 thread = 6
+Execute MPI-MM1c-2800-TH-6
+Matrix - Execute matrix = 3000 thread = 6
+Execute MPI-MM1c-3000-TH-6
+Thread - Execute Thread = 8
+Matrix - Execute matrix = 100 thread = 8
+Execute MPI-MM1c-100-TH-8
+Matrix - Execute matrix = 200 thread = 8
+Execute MPI-MM1c-200-TH-8
+Matrix - Execute matrix = 300 thread = 8
+Execute MPI-MM1c-300-TH-8
+Matrix - Execute matrix = 400 thread = 8
+Execute MPI-MM1c-400-TH-8
+Matrix - Execute matrix = 500 thread = 8
+Execute MPI-MM1c-500-TH-8
+Matrix - Execute matrix = 600 thread = 8
+Execute MPI-MM1c-600-TH-8
+Matrix - Execute matrix = 700 thread = 8
+Execute MPI-MM1c-700-TH-8
+Matrix - Execute matrix = 800 thread = 8
+Execute MPI-MM1c-800-TH-8
+Matrix - Execute matrix = 900 thread = 8
+Execute MPI-MM1c-900-TH-8
+Matrix - Execute matrix = 1000 thread = 8
+Execute MPI-MM1c-1000-TH-8
+Matrix - Execute matrix = 1200 thread = 8
+Execute MPI-MM1c-1200-TH-8
+Matrix - Execute matrix = 1400 thread = 8
+Execute MPI-MM1c-1400-TH-8
+Matrix - Execute matrix = 1600 thread = 8
+Execute MPI-MM1c-1600-TH-8
+Matrix - Execute matrix = 1800 thread = 8
+Execute MPI-MM1c-1800-TH-8
+Matrix - Execute matrix = 2000 thread = 8
+Execute MPI-MM1c-2000-TH-8
+Matrix - Execute matrix = 2400 thread = 8
+Execute MPI-MM1c-2400-TH-8
+Matrix - Execute matrix = 2800 thread = 8
+Execute MPI-MM1c-2800-TH-8
+Matrix - Execute matrix = 3000 thread = 8
+Execute MPI-MM1c-3000-TH-8
+Thread - Execute Thread = 10
+Matrix - Execute matrix = 100 thread = 10
+Execute MPI-MM1c-100-TH-10
+Matrix - Execute matrix = 200 thread = 10
+Execute MPI-MM1c-200-TH-10
+Matrix - Execute matrix = 300 thread = 10
+Execute MPI-MM1c-300-TH-10
+Matrix - Execute matrix = 400 thread = 10
+Execute MPI-MM1c-400-TH-10
+Matrix - Execute matrix = 500 thread = 10
+Execute MPI-MM1c-500-TH-10
+[worker4:1410076] *** Process received signal ***
+[worker4:1410076] Signal: Segmentation fault (11)
+[worker4:1410076] Signal code: Invalid permissions (2)
+[worker4:1410076] Failing at address: 0x7f00c8652f18
+[worker4:1410076] [ 0] /lib/x86_64-linux-gnu/libc.so.6(+0x43090)[0x7f00c833b090]
+[worker4:1410076] [ 1] /lib64/ld-linux-x86-64.so.2(+0x2df18)[0x7f00c8652f18]
+[worker4:1410076] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1410076 on node worker4 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+Matrix - Execute matrix = 600 thread = 10
+Execute MPI-MM1c-600-TH-10
+Matrix - Execute matrix = 700 thread = 10
+Execute MPI-MM1c-700-TH-10
+Matrix - Execute matrix = 800 thread = 10
+Execute MPI-MM1c-800-TH-10
+Matrix - Execute matrix = 900 thread = 10
+Execute MPI-MM1c-900-TH-10
+Matrix - Execute matrix = 1000 thread = 10
+Execute MPI-MM1c-1000-TH-10
+Matrix - Execute matrix = 1200 thread = 10
+Execute MPI-MM1c-1200-TH-10
+Matrix - Execute matrix = 1400 thread = 10
+Execute MPI-MM1c-1400-TH-10
+Matrix - Execute matrix = 1600 thread = 10
+Execute MPI-MM1c-1600-TH-10
+Matrix - Execute matrix = 1800 thread = 10
+Execute MPI-MM1c-1800-TH-10
+Matrix - Execute matrix = 2000 thread = 10
+Execute MPI-MM1c-2000-TH-10
+Matrix - Execute matrix = 2400 thread = 10
+Execute MPI-MM1c-2400-TH-10
+Matrix - Execute matrix = 2800 thread = 10
+Execute MPI-MM1c-2800-TH-10
+Matrix - Execute matrix = 3000 thread = 10
+Execute MPI-MM1c-3000-TH-10
+Thread - Execute Thread = 12
+Matrix - Execute matrix = 100 thread = 12
+Execute MPI-MM1c-100-TH-12
+Matrix - Execute matrix = 200 thread = 12
+Execute MPI-MM1c-200-TH-12
+Matrix - Execute matrix = 300 thread = 12
+Execute MPI-MM1c-300-TH-12
+Matrix - Execute matrix = 400 thread = 12
+Execute MPI-MM1c-400-TH-12
+Matrix - Execute matrix = 500 thread = 12
+Execute MPI-MM1c-500-TH-12
+Matrix - Execute matrix = 600 thread = 12
+Execute MPI-MM1c-600-TH-12
+Matrix - Execute matrix = 700 thread = 12
+Execute MPI-MM1c-700-TH-12
+Matrix - Execute matrix = 800 thread = 12
+Execute MPI-MM1c-800-TH-12
+Matrix - Execute matrix = 900 thread = 12
+Execute MPI-MM1c-900-TH-12
+Matrix - Execute matrix = 1000 thread = 12
+Execute MPI-MM1c-1000-TH-12
+Matrix - Execute matrix = 1200 thread = 12
+Execute MPI-MM1c-1200-TH-12
+Matrix - Execute matrix = 1400 thread = 12
+Execute MPI-MM1c-1400-TH-12
+Matrix - Execute matrix = 1600 thread = 12
+Execute MPI-MM1c-1600-TH-12
+Matrix - Execute matrix = 1800 thread = 12
+Execute MPI-MM1c-1800-TH-12
+Matrix - Execute matrix = 2000 thread = 12
+Execute MPI-MM1c-2000-TH-12
+Matrix - Execute matrix = 2400 thread = 12
+Execute MPI-MM1c-2400-TH-12
+Matrix - Execute matrix = 2800 thread = 12
+Execute MPI-MM1c-2800-TH-12
+Matrix - Execute matrix = 3000 thread = 12
+Execute MPI-MM1c-3000-TH-12
+Thread - Execute Thread = 14
+Matrix - Execute matrix = 100 thread = 14
+Execute MPI-MM1c-100-TH-14
+Matrix - Execute matrix = 200 thread = 14
+Execute MPI-MM1c-200-TH-14
+Matrix - Execute matrix = 300 thread = 14
+Execute MPI-MM1c-300-TH-14
+Matrix - Execute matrix = 400 thread = 14
+Execute MPI-MM1c-400-TH-14
+Matrix - Execute matrix = 500 thread = 14
+Execute MPI-MM1c-500-TH-14
+Matrix - Execute matrix = 600 thread = 14
+Execute MPI-MM1c-600-TH-14
+Matrix - Execute matrix = 700 thread = 14
+Execute MPI-MM1c-700-TH-14
+Matrix - Execute matrix = 800 thread = 14
+Execute MPI-MM1c-800-TH-14
+Matrix - Execute matrix = 900 thread = 14
+Execute MPI-MM1c-900-TH-14
+Matrix - Execute matrix = 1000 thread = 14
+Execute MPI-MM1c-1000-TH-14
+Matrix - Execute matrix = 1200 thread = 14
+Execute MPI-MM1c-1200-TH-14
+Matrix - Execute matrix = 1400 thread = 14
+Execute MPI-MM1c-1400-TH-14
+Matrix - Execute matrix = 1600 thread = 14
+Execute MPI-MM1c-1600-TH-14
+Matrix - Execute matrix = 1800 thread = 14
+Execute MPI-MM1c-1800-TH-14
+Matrix - Execute matrix = 2000 thread = 14
+Execute MPI-MM1c-2000-TH-14
+Matrix - Execute matrix = 2400 thread = 14
+Execute MPI-MM1c-2400-TH-14
+Matrix - Execute matrix = 2800 thread = 14
+Execute MPI-MM1c-2800-TH-14
+Matrix - Execute matrix = 3000 thread = 14
+Execute MPI-MM1c-3000-TH-14
+Todas las ejecuciones han finalizado.

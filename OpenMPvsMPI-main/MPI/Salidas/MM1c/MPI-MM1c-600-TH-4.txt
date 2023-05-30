@@ -1,0 +1,13 @@
+approx 8-process time Tp: 0.508943 sec.
+approx 8-process time Tp: 0.300196 sec.
+approx 8-process time Tp: 0.433693 sec.
+approx 4-process time Tp: 0.198208 sec.
+approx 4-process time Tp: 0.210191 sec.
+approx 4-process time Tp: 0.170526 sec.
+approx 4-process time Tp: 0.185433 sec.
+approx 4-process time Tp: 0.142499 sec.
+approx 4-process time Tp: 0.124213 sec.
+approx 4-process time Tp: 0.163895 sec.
+approx 4-process time Tp: 0.132232 sec.
+approx 4-process time Tp: 0.168612 sec.
+approx 4-process time Tp: 0.132180 sec.
