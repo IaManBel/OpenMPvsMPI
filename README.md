@@ -1,5 +1,5 @@
 # OpenMPvsMPI
-## Repositorio CAD Univeridad Javeriana 2023
+## Repositorio CAD Universidad Javeriana 2023
 ***
 The objective of this study is to analyze and compare the performance of four standard matrix multiplication algorithms (row by column) with different optimization techniques (MM1c, MM1f, MM1fu, MM2f) implemented with two parallel programming models (OpenMPI and OpenMP). on multiple compute nodes with multicore processors.
 
