@@ -1,0 +1,13 @@
+approx 28-process time Tp: 4.958271 sec.
+approx 28-process time Tp: 5.735797 sec.
+approx 28-process time Tp: 3.847641 sec.
+approx 14-process time Tp: 3.015157 sec.
+approx 14-process time Tp: 3.162300 sec.
+approx 14-process time Tp: 3.001533 sec.
+approx 14-process time Tp: 2.781849 sec.
+approx 14-process time Tp: 3.050836 sec.
+approx 14-process time Tp: 2.210110 sec.
+approx 14-process time Tp: 2.763580 sec.
+approx 14-process time Tp: 2.798010 sec.
+approx 14-process time Tp: 2.170696 sec.
+approx 14-process time Tp: 2.167936 sec.

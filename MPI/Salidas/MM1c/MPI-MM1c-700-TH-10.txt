@@ -1,0 +1,13 @@
+approx 20-process time Tp: 0.378505 sec.
+approx 20-process time Tp: 0.291196 sec.
+approx 20-process time Tp: 0.242331 sec.
+approx 10-process time Tp: 0.359978 sec.
+approx 10-process time Tp: 0.348275 sec.
+approx 10-process time Tp: 0.188318 sec.
+approx 10-process time Tp: 0.210518 sec.
+approx 10-process time Tp: 0.219797 sec.
+approx 10-process time Tp: 0.188687 sec.
+approx 10-process time Tp: 0.219098 sec.
+approx 10-process time Tp: 0.211747 sec.
+approx 10-process time Tp: 0.187747 sec.
+approx 10-process time Tp: 0.152025 sec.
